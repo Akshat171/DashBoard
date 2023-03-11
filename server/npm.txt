@@ -1,0 +1,8 @@
+express for API framework
+body-parser for parsing the data coming in
+cors cross origin reserach sharing
+dotenv environment variables
+helmet Protecting apis
+morgan login api calls
+mongoose for handling mongodb calls
+nodeman live server reload
